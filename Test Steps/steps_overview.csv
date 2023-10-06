@@ -1,5 +1,5 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify Successful Completion of Contact Form Submission,"step 1: Navigate to Page contact
+1,Verify Contact Form Submission on Page Contact,"step 1: Navigate to Page contact
 step 2: At Page contact input on input object
 step 3: At Page contact click on span object
 step 4: At Page contact click on span object
@@ -20,5 +20,5 @@ step 18: At Page contact step2 click on input object
 step 19: At Page contact step2 input on textarea object
 step 20: At Page contact step2 click on button object --> navigate to Page contact step3
 step 21: Add visual checkpoint at Page contact step3",High
-2,Verify Page Home is Successfully Loaded,"step 1: Navigate to Page home
+2,Verify Page Home Navigation,"step 1: Navigate to Page home
 step 2: Add visual checkpoint at Page home",Low
